@@ -18,7 +18,7 @@ This guide outlines the key steps to configure osTicket for use as an effective 
 <h2>Configuration Process</h2>
 
 <p><img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/c8f8e9cc-1754-4d78-aa4a-d90eab7d5f2d" />
-    <<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/58d38e70-8d11-4d0f-9686-04bca2208558" />
+    <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/256d81ff-6117-4f95-8425-65e469aa36cc" />
 </p>
 <p>
 After installing osTicket, the next step is to configure it for efficient ticket management. Switching between the Admin and Agent panels is necessary for specific configurations. The panel in use is indicated in the top-right corner of the osTicket interface. If it says "Agent Panel," the Admin panel is being accessed, and vice versa.
