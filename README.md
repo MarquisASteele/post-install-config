@@ -32,7 +32,7 @@ After installing osTicket, the next step is to configure it for efficient ticket
 Configure a Supreme Admin role with full permissions to manage the osTicket environment. In the Admin Panel, navigate to Agents → Roles, then create a new role and assign the necessary permissions. This role provides administrators with complete access to manage tickets, users, agents, and system configurations.
 </p>
 
-<h3>Step 2: Assign agent permissions
+<h3>Step 2: Configure a System Administrators department...
 <p>
   <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5e33f1d7-a7f7-4ded-b952-57bd4cecbbef" />
 </p>
