@@ -67,10 +67,11 @@ Create user accounts for individuals who will submit support requests. In the Ag
 
 <h3>Step 6: Configure Service Level Agreements (SLAs)</h3>
 <p>
-    <img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Add SLAs"/>
+   <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/8e1dc424-b400-4bac-981f-edf50c748811" />
+
 </p>
 <p>
-Define SLAs to prioritize ticket resolution times. In the Admin panel, go to the *Manage* menu, click *SLA,* and set up SLAs. For example, SEV-A (1 hour), SEV-B (4 hours), and SEV-C (8 hours) were created.
+Configure Service Level Agreements (SLAs) to define ticket response and resolution priorities based on severity. In the Admin Panel, navigate to Manage → SLA, then create the appropriate SLA plans. In this example, three SLAs were configured: SEV-A (1 hour), SEV-B (4 hours), and SEV-C (8 hours) to simulate different levels of support urgency.
 </p>
 
 <h3>Step 7: Add Help Topics</h3>
