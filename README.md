@@ -26,7 +26,7 @@ After installing osTicket, the next step is to configure it for efficient ticket
 
 <h3>Step 1: Create a New Role</h3>
 <p>
-    <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/ebe2926d-5e38-4b5a-900f-ae0b3a99a55b" />
+   <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/158f5058-aa29-454c-96b6-e4fec34a260c" />
 </p>
 <p>
 Start by creating a "Supreme Admin" role with all permissions. In the Admin panel, navigate to the *Agents* menu, click *Roles,* and create the new role.
@@ -34,7 +34,7 @@ Start by creating a "Supreme Admin" role with all permissions. In the Admin pane
 
 <h3>Step 2: Add a New Department</h3>
 <p>
-    <img src="https://i.imgur.com/d7WuRn8.png" height="80%" width="80%" alt="Create Department"/>
+  <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5e33f1d7-a7f7-4ded-b952-57bd4cecbbef" />
 </p>
 <p>
 Create a "System Administrators" department. In the Admin panel, open the *Agents* menu, select *Departments,* and add a new department.
