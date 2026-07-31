@@ -58,11 +58,11 @@ Add agents to handle incoming tickets. In the Admin panel, go to the *Agents* me
 </p>
 
 <h3>Step 5: Add Users</h3>
-<p>
-    <img src="https://i.imgur.com/pI1Cf3Q.png" height="80%" width="80%" alt="Add Users"/>
+<p><img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/abdf77fe-ad78-4e42-bbaf-d49621c7d675" />
+  
 </p>
 <p>
-Create users who will submit tickets. In the Agent panel, open the *Users* menu, click *Add User,* and set up accounts. Karen and Ken were added in this case.
+Create user accounts for individuals who will submit support requests. In the Agent Panel, navigate to Users, select Add User, and create the necessary user accounts. In this example, two users—Karen and Mark—were added to simulate end users in the help desk environment.
 </p>
 
 <h3>Step 6: Configure Service Level Agreements (SLAs)</h3>
