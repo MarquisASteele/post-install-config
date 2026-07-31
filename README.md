@@ -51,7 +51,7 @@ Configure support teams to organize agents with shared responsibilities. Teams p
 
 <h3>Step 4: Create New Agents</h3>
 <p>
-    <img src="https://i.imgur.com/gHvbfS3.png" height="80%" width="80%" alt="Add Agents"/>
+    
 </p>
 <p>
 Add agents to handle incoming tickets. In the Admin panel, go to the *Agents* menu, click *Add New Agent,* and create account credentials. For this setup, Jane and John Doe were added as agents.
