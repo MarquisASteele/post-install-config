@@ -41,12 +41,12 @@ Create a "System Administrators" department. In the Admin panel, open the *Agent
 </p>
 
 <h3>Step 3: Set Up Teams</h3>
-<p>
-    <img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Create Teams"/>
-    <img src="https://i.imgur.com/k0lElHH.png" height="80%" width="80%" alt="Create Teams"/>
+<p><img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f88d4173-358f-4793-801d-8ed4262682d4" />
+    <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e3aad02b-0f0e-499a-b7e8-dbf2e7102ff6" />
 </p>
 <p>
-Add a "Level II Support Team" to complement the existing Level I team. Navigate to the *Agents* menu, click *Teams,* and create any required teams.
+
+Configure support teams to organize agents with shared responsibilities. Teams provide flexibility by allowing agents from multiple departments to collaborate on and resolve tickets while maintaining their departmental assignments.
 </p>
 
 <h3>Step 4: Create New Agents</h3>
