@@ -24,7 +24,7 @@ This guide demonstrates the essential post-installation configuration steps requ
 After installing osTicket, the next step is to configure it for efficient ticket management. Switching between the Admin and Agent panels is necessary for specific configurations. The panel in use is indicated in the top-right corner of the osTicket interface. If it says "Agent Panel," the Admin panel is being accessed, and vice versa.
 </p>
 
-<h3>Step 1: Create a New Role</h3>
+<h3>Step 1: Establish administrative roles
 <p>
    <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/158f5058-aa29-454c-96b6-e4fec34a260c" />
 </p>
@@ -32,7 +32,7 @@ After installing osTicket, the next step is to configure it for efficient ticket
 Configure a Supreme Admin role with full permissions to manage the osTicket environment. In the Admin Panel, navigate to Agents → Roles, then create a new role and assign the necessary permissions. This role provides administrators with complete access to manage tickets, users, agents, and system configurations.
 </p>
 
-<h3>Step 2: Add a New Department</h3>
+<h3>Step 2: Assign agent permissions
 <p>
   <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5e33f1d7-a7f7-4ded-b952-57bd4cecbbef" />
 </p>
@@ -40,7 +40,7 @@ Configure a Supreme Admin role with full permissions to manage the osTicket envi
 Configure a System Administrators department to organize agents responsible for managing technical support requests and system-related issues. In the Admin Panel, navigate to Agents → Departments, then create a new department. This department helps organize ticket assignments and ensures requests are routed to the appropriate support team.
 </p>
 
-<h3>Step 3: Set Up Teams</h3>
+<h3>Step 3: Create support teams
 <p><img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f88d4173-358f-4793-801d-8ed4262682d4" />
     <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/e3aad02b-0f0e-499a-b7e8-dbf2e7102ff6" />
 </p>
@@ -49,7 +49,7 @@ Configure a System Administrators department to organize agents responsible for 
 Configure support teams to organize agents with shared responsibilities. Teams provide flexibility by allowing agents from multiple departments to collaborate on and resolve tickets while maintaining their departmental assignments.
 </p>
 
-<h3>Step 4: Create New Agents</h3>
+<h3>Step 4: Organize departments
 <p>
     
 </p>
@@ -57,7 +57,7 @@ Configure support teams to organize agents with shared responsibilities. Teams p
 Add agents to handle incoming tickets. In the Admin panel, go to the *Agents* menu, click *Add New Agent,* and create account credentials. For this setup, Jane and John Doe were added as agents.
 </p>
 
-<h3>Step 5: Add Users</h3>
+<h3>Step 5: Add end-user accounts
 <p><img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/abdf77fe-ad78-4e42-bbaf-d49621c7d675" />
   
 </p>
@@ -65,7 +65,7 @@ Add agents to handle incoming tickets. In the Admin panel, go to the *Agents* me
 Create user accounts for individuals who will submit support requests. In the Agent Panel, navigate to Users, select Add User, and create the necessary user accounts. In this example, two users—Karen and Mark—were added to simulate end users in the help desk environment.
 </p>
 
-<h3>Step 6: Configure Service Level Agreements (SLAs)</h3>
+<h3>Step 6: Define Service Level Agreements
 <p>
    <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/8e1dc424-b400-4bac-981f-edf50c748811" />
 
