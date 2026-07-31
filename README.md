@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Installation Configuration Guide</h1>
-This guide outlines the key steps to configure osTicket for use as an effective ticketing system.<br />
+This guide demonstrates the essential post-installation configuration steps required to prepare osTicket for use in a simulated enterprise help desk environment. It covers configuring administrative roles, departments, teams, users, Service Level Agreements (SLAs), and Help Topics to support efficient ticket management.
 
 <h2>Tools and Technologies Used</h2>
 
@@ -75,12 +75,11 @@ Configure Service Level Agreements (SLAs) to define ticket response and resoluti
 </p>
 
 <h3>Step 7: Add Help Topics</h3>
-<p>
-    <img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Add Help Topics"/>
+<p><img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/df36370c-fc79-4719-8020-4e0b23b80c5e" />
 </p>
 <p>
-Set up Help Topics to categorize user issues. In the Admin panel, open the *Manage* menu, click *Help Topics,* and add new topics such as "Business Critical Outage," "Personal Computer Issues," "Equipment Reset," and "Password Request."
+Configure Help Topics to categorize incoming support requests and streamline ticket routing. In the Admin Panel, navigate to Manage → Help Topics, then create the appropriate categories. In this example, the following Help Topics were added: Business Critical Outage, Personal Computer Issues, Equipment Reset, Password Request, and Other.
 </p>
 
 <h2>Configuration Complete</h2>
-With these configurations, osTicket is ready to function as a fully operational ticketing system. Tickets can now be created, managed, and triaged effectively, simulating a real-world environment.
+With these configurations complete, the osTicket environment is fully prepared to support ticket creation, routing, prioritization, and resolution. Administrative roles, departments, teams, users, Service Level Agreements (SLAs), and Help Topics have been configured to simulate a real-world enterprise help desk environment.
