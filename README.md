@@ -29,7 +29,7 @@ After installing osTicket, the next step is to configure it for efficient ticket
    <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/158f5058-aa29-454c-96b6-e4fec34a260c" />
 </p>
 <p>
-Start by creating a "Supreme Admin" role with all permissions. In the Admin panel, navigate to the *Agents* menu, click *Roles,* and create the new role.
+Configure a Supreme Admin role with full permissions to manage the osTicket environment. In the Admin Panel, navigate to Agents → Roles, then create a new role and assign the necessary permissions. This role provides administrators with complete access to manage tickets, users, agents, and system configurations.
 </p>
 
 <h3>Step 2: Add a New Department</h3>
@@ -37,7 +37,7 @@ Start by creating a "Supreme Admin" role with all permissions. In the Admin pane
   <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5e33f1d7-a7f7-4ded-b952-57bd4cecbbef" />
 </p>
 <p>
-Create a "System Administrators" department. In the Admin panel, open the *Agents* menu, select *Departments,* and add a new department.
+Configure a System Administrators department to organize agents responsible for managing technical support requests and system-related issues. In the Admin Panel, navigate to Agents → Departments, then create a new department. This department helps organize ticket assignments and ensures requests are routed to the appropriate support team.
 </p>
 
 <h3>Step 3: Set Up Teams</h3>
